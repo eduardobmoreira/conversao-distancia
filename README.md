@@ -1,5 +1,10 @@
 # conversao-distancia
 
+Repositório no Docker Hub
+https://hub.docker.com/repository/docker/eduardobmoreira/conversao-distancia/general
+
+COMANDOS BÁSICOS
+
 deletar todos os containers <br>
 	docker container rm -f $(docker container ls -qa)
 
